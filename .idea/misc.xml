@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/api-client/pom.xml" />
+        <option value="$PROJECT_DIR$/euroka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/Hello-World-service/pom.xml" />
       </list>
     </option>
   </component>
